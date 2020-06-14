@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Alphabets-App/static/css/main.e48a8ee7.chunk.css",
+    "main.js": "/React-Alphabets-App/static/js/main.e539e7bf.chunk.js",
+    "main.js.map": "/React-Alphabets-App/static/js/main.e539e7bf.chunk.js.map",
+    "runtime-main.js": "/React-Alphabets-App/static/js/runtime-main.26a5afcf.js",
+    "runtime-main.js.map": "/React-Alphabets-App/static/js/runtime-main.26a5afcf.js.map",
+    "static/js/2.c6a4199d.chunk.js": "/React-Alphabets-App/static/js/2.c6a4199d.chunk.js",
+    "static/js/2.c6a4199d.chunk.js.map": "/React-Alphabets-App/static/js/2.c6a4199d.chunk.js.map",
+    "index.html": "/React-Alphabets-App/index.html",
+    "precache-manifest.8df761daee6b455790bafc5f0775af0c.js": "/React-Alphabets-App/precache-manifest.8df761daee6b455790bafc5f0775af0c.js",
+    "service-worker.js": "/React-Alphabets-App/service-worker.js",
+    "static/css/main.e48a8ee7.chunk.css.map": "/React-Alphabets-App/static/css/main.e48a8ee7.chunk.css.map",
+    "static/js/2.c6a4199d.chunk.js.LICENSE.txt": "/React-Alphabets-App/static/js/2.c6a4199d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26a5afcf.js",
+    "static/js/2.c6a4199d.chunk.js",
+    "static/css/main.e48a8ee7.chunk.css",
+    "static/js/main.e539e7bf.chunk.js"
+  ]
+}
